@@ -1,23 +1,25 @@
-# Bachelors of Engineering in Software Engineering at NUST
+# Bachelors of Engineering in Software Engineering
 
 ![pexels-thisisengineering-3861972](https://user-images.githubusercontent.com/74835399/148657262-228f3957-7f04-4358-bcab-b51b15be14e0.jpg)
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Table Of Contents
 
 * [How To Contribute](#how-to-contribute)
 * [How to Clone ?](#how-to-clone-?)
 * [Useful Repositories](#useful-repositories)
-* [Academics](#academics)
+* [**Academics**](#academics)
+  * Semester Wise 
+    - [Semester 1](./semester-1/README.md)
+    - [Semester 2](./semester-2/README.md)
+    - [Semester 3](./semester-3/README.md)
+    - [Semester 4](./semester-4/README.md)
+  * Exercises | Exams | Assements
+    - [Computer Abbreviations Quizzes for Competitive Exams](https://testfellow.com/computer-abbreviations-mcqs-quiz/)
 
 
-## Academics
 
-| Semester | Coursers |
-|---|--- |
-| [Semester 1](#semester-1) | <li> Fundamentals of Programming <li> Applied Physics <li> Pakistan Studies <li> Calculus <li> Workshop Practice <li> Discrete Maths |
-| [Semester 2](#semester-2) | <li> [Object Oriented Programming](#)  <li> [](#) <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
-| [Semester 3](#semester-3) | <li> [Data Structures and Algorithms](#data-structures-and-algorithms) <li> <li> <li> <li> <li> |
-| [Semester 4](#semester-4) | <li> [Software Requirement Engineering](#software-requirement-engineering) <li> [Computer Networks](#computer-networks) <li> [Numerical Methods](#numerical-methods) <li> [Computer Organization and Archeticture](#computer-organization-and-archeticture) <li> [Theory of Automata and Formal Languages](#theory-of-automata-and-formal-languages) |
   
 ## How To Contribute
 Fork the repository. Add material. Make a pull request.
@@ -27,9 +29,25 @@ Fork the repository. Add material. Make a pull request.
 git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ~~~
 
-## Useful Repositories
-  * List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers/developers : https://github.com/romenrg/evergreen-skills-developers
-  
+## Useful Repositories and Websites
+  * List of evergreen skills https://github.com/romenrg/evergreen-skills-developers
+  * Problem Solving Training for computer science students. : https://github.com/cs-MohamedAyman/Problem-Solving-Training
+  * A utility that manages a Registry key that allows Windows to remap one key to any other key: https://github.com/randyrants/sharpkeys
+  * https://www.interviewbit.com/
+  * [Slideshare downloader](https://slidesharedownloader.ngelmat.net/)
+  * [Figma](figma.com)
+  * [Flash Card Maker](http://www.kitzkikz.com/flashcards/)
+
+## Academics
+
+| Semester | Coursers |
+|---|--- |
+| [Semesterd 1](#semester-1) | <li> Fundamentals of Programming <li> Applied Physics <li> Pakistan Studies <li> Calculus <li> Workshop Practice <li> Discrete Maths |
+| [Semester 2](#semester-2) | <li> [Object Oriented Programming](#)  <li> [](#) <li> <li> <li> <li> | <li> <li> <li> <li> <li> <li> |
+| [Semester 3](#semester-3) | <li> [Data Structures and Algorithms](#data-structures-and-algorithms) <li> <li> <li> <li> <li> |
+| [Semester 4](#semester-4) | <li> [Software Requirement Engineering](#software-requirement-engineering) <li> [Computer Networks](#computer-networks) <li> [Numerical Methods](#numerical-methods) <li> [Computer Organization and Archeticture](#computer-organization-and-archeticture) <li> [Theory of Automata and Formal Languages](#theory-of-automata-and-formal-languages) |
+ 
+ 
 ## Semester 1
 
 ## Semester 2
@@ -54,16 +72,23 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 ## Semester 4
 
 ### Software Requirement Engineering
+  * Requirements Engineering: Secure Software Specifications Specialization Coursera : https://www.coursera.org/specializations/requirements-engineering-secure-software
+ * [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions)
+  
 ### Computer Networks
 
 * https://gaia.cs.umass.edu/kurose_ross/interactive/
 * https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
-* https://www.youtube.com/watch?v=oYeJoJXIP9Q
-* Computer Communications Specialization Coursera : https://www.coursera.org/specializations/computer-communications
-* Free Courses : https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html
+* [Computer NETWORKING Concept ROADMAP](https://www.youtube.com/watch?v=oYeJoJXIP9Q)
+* [Computer Communications Specialization Coursera](https://www.coursera.org/specializations/computer-communications)
+* [Free Cisco Courses](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
+* [Cisco Packet Tracer 2021 || ❗ Crash Course ❗](https://www.youtube.com/watch?v=ty0HMs48U1k)
+* [Packet Tracer Labs](https://www.practicalnetworking.net/stand-alone/packet-tracer-labs/)
 
 
 ### Numerical Methods
+ - https://www.codesansar.com/online-calculator/
+ 
 ### Computer Organization and Archeticture
 * <b> Computer Architecture Complete Course By Princeton University : <\b>
     * Part 1 : https://www.youtube.com/watch?v=9nuAjYRbITQ
@@ -72,7 +97,9 @@ git clone https://github.com/hussainashiqktk/be-software-engineering.git
 * https://www.youtube.com/watch?v=L1ung0wil9Y
 * 8086 Assembly Language Programming For Beginners : https://www.youtube.com/playlist?list=PL7i2wta8UEF6lYj7RO3CLeccXFUm_Q29r
 * A visual simulator for teaching computer architecture using the RISC-V instruction set. : https://guillaume-savaton-eseo.github.io/emulsiV/
-*
+* CPU-OS Simulator : https://teach-sim.com/os/
+* [Computer Architecture Coursera](https://www.coursera.org/learn/comparch)
+ [Assembly Simulator](https://cpulator.01xz.net/?sys=arm-de1soc)
 
 ### Theory of Automata and Formal Languages
 
